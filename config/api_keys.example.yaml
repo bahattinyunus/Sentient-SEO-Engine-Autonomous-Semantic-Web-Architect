@@ -1,0 +1,8 @@
+openai_api_key: "YOUR_OPENAI_API_KEY_HERE"
+wordpress:
+  url: "https://your-domain.com/xmlrpc.php"
+  username: "admin"
+  password: "app-password"
+ghost:
+  admin_api_key: "GHOST_ADMIN_API_KEY_HERE"
+  url: "https://your-ghost-blog.com"

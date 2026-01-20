@@ -1,0 +1,25 @@
+# Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# Environment
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configuration (SECURE)
+config/api_keys.yaml
+.env
+
+# Data & Logs
+logs/*.log
+data/processed/*
+!data/processed/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
